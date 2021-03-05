@@ -1,0 +1,29 @@
+# Host addresses
+127.0.0.1  localhost
+127.0.1.1  dejv-pc
+::1        localhost ip6-localhost ip6-loopback
+ff02::1    ip6-allnodes
+ff02::2    ip6-allrouters
+
+#Local network
+192.168.68.120 nas.local
+192.168.68.121 malina.local
+
+#Cenzus
+## Produkce
+10.6.1.135  SVLSLCAP1VP
+10.6.1.136  SVLSLCAP2VP
+10.6.1.137  SVLSLCAP3VP
+10.6.1.138  SVLSLCAP4VP
+10.6.1.139  SVLSLCAP5VP
+10.6.1.140  SVLSLCAP6VP
+
+10.6.2.7    SVLSLCDB1VP
+10.6.2.8    SVLSLCDB2VP
+
+## Test
+10.6.9.135  SVLSLCAP1VT
+10.6.9.136  SVLSLCAP2VT
+
+10.6.10.7   SVLSLCDB1VT
+10.6.10.7   SVLSLCDB1VT
